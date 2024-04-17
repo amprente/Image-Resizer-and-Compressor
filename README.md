@@ -1,5 +1,3 @@
-GPT
-Certainly! Below is a brief documentation for the Python script that provides an interface for resizing and compressing images. This documentation includes an overview, prerequisites, usage instructions, and a description of the functions.
 
 Image Resizer and Compressor Tool
 Overview
