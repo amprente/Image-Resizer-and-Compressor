@@ -1,5 +1,6 @@
-
 Image Resizer and Compressor Tool
+
+
 Overview
 This tool provides a graphical user interface (GUI) to resize and compress images. Users can choose to resize images by percentage or to specific dimensions. The tool supports saving the output in JPEG, PNG, or WebP formats, with adjustable quality settings for JPEG images.
 
